@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        // #f07b1b orrange
+        // #f07b1b orrange #cf5525
         // #111111 bg
         // #2f2f2f text
         // #141414

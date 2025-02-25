@@ -18,8 +18,9 @@ const Hero = () => {
             Hi, I'm <span className="text-[#915eff]">Alyan Hanif</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I devlop bla bla bla bla <br className="sm:block hidden" />
-            bla bla bla bla bla bla bla bla bla bla bla
+            I develop scalable APIs with NestJS,{" "}
+            <br className="sm:block hidden" />
+            specializing in secure backend systems with full-stack insights.
           </p>
         </div>
       </div>
